@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Files.com intended to ingest managed file storage content into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Files Com",
-      "text": "A Subjective data source for Files Com. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Files.com intended to ingest managed file storage content into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_files_com_datasource/icon.svg",
         "alt": "Files Com icon"
